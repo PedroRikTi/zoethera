@@ -1,7 +1,7 @@
 function Home() {
   return (
     <p>
-      METANOIA<br />
+      METANOIA!<br />
       Mudança de Mentalidade: É o sentido original, significando repensar, mudar
       de ideia e adotar uma nova perspectiva.<br />
 
